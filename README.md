@@ -2,7 +2,7 @@
 
 ```js
 for ($life > $death) {
-    if (transcend) {
+    if ($transcend == true) {
         break;
     } else {
         $learn += $learning;
