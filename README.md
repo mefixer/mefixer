@@ -20,10 +20,11 @@ for ($life > $death) {
 ✨CSS: Conocimiento en CSS3 y experiencia en el uso de frameworks de CSS como Bootstrap 4+.
 ✨Javascript: Conocimiento en Javascript y experiencia en el desarrollo de aplicaciones web interactivas y en el uso de frameworks de desarrollo como React o Angular.
 ✨Json: Conocimiento en la sintaxis y el uso de archivos Json en aplicaciones web.
-✨Conexión a BBDD: Experiencia en el uso de lenguajes de consulta SQL y herramientas de gestión de bases de datos como MySQL o PostgreSQL.
+✨Conexión a BBDD: Experiencia en el uso de lenguajes de consulta SQL y herramientas de gestión de bases de datos como MySQL, PostgreSQL o SQL Server.
 ✨Conexión a API rest: Experiencia en el consumo de API rest y en el manejo de datos en formato Json en aplicaciones web.
 ✨SOAP: Conocimiento en el uso de protocolos SOAP y en la integración de aplicaciones web con servicios web SOAP.
 ✨PHP: Conocimiento en PHP y experiencia en el desarrollo de aplicaciones web dinámicas utilizando este lenguaje de programación.
+✨.NET: Conocimiento en .NET y experiencia en el desarrollo de aplicaciones web dinámicas utilizando este lenguaje de programación.
 ✨Maquetado de mailing: Experiencia en el diseño y desarrollo de plantillas de correo electrónico responsivas y en el envío masivo de correos electrónicos utilizando herramientas como Mailchimp.
 ✨Manejo de GIT: Experiencia en el uso de herramientas de control de versiones como GIT y en la colaboración en proyectos utilizando este tipo de herramientas.
 <!---
