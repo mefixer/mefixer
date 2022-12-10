@@ -4,6 +4,19 @@
 - 💞️ I’m looking to collaborate on Web Desings...
 - 📫 How to reach me on mgarciamardones@gmail.com...
 
+![This is an image]( https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+```js
+for ($life > $death) {
+    if (transcend) {
+        break;
+    } else {
+        $learn += $learning;
+        print_r('I love to code');
+    }
+}
+```
+
 ✨HTML: Conocimiento intermedio en HTML5 y experiencia en el desarrollo de sitios web estáticos y dinámicos.
 ✨CSS: Conocimiento avanzado en CSS3 y experiencia en el uso de frameworks de CSS como Bootstrap 4+.
 ✨Javascript: Conocimiento intermedio en Javascript y experiencia en el desarrollo de aplicaciones web interactivas y en el uso de frameworks de desarrollo como React o Angular.
